@@ -7,5 +7,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=younghye&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💫 My Work
-<a href="https://blue-cliff-0bdeaa900.5.azurestaticapps.net/"><img src="https://github.com/younghye/younghye/blob/d63e8bded663957b04d1848eb9640016cb886622/Library.png" width="300"></a><a href="https://bambina.netlify.app/"><img src="https://github.com/younghye/younghye/blob/d63e8bded663957b04d1848eb9640016cb886622/Bambina.png" width="300"></a>
-<a href="https://y-quilling.netlify.app/"><img src="https://github.com/younghye/younghye/blob/d63e8bded663957b04d1848eb9640016cb886622/Y_quilling.png" width="300"></a>
+<a href="https://blue-cliff-0bdeaa900.5.azurestaticapps.net/"><img src="https://github.com/younghye/younghye/blob/d63e8bded663957b04d1848eb9640016cb886622/Library.png" width="450"></a><a href="https://bambina.netlify.app/"><img src="https://github.com/younghye/younghye/blob/d63e8bded663957b04d1848eb9640016cb886622/Bambina.png" width="450"></a>
+<a href="https://y-quilling.netlify.app/"><img src="https://github.com/younghye/younghye/blob/d63e8bded663957b04d1848eb9640016cb886622/Y_quilling.png" width="450"></a>
